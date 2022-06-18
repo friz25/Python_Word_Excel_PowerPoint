@@ -1,6 +1,6 @@
 # Python_Word_Excel_PowerPoint
 
-Studying with python packages for Excel, PowerPoint, Word manipulation
+Studying python packages for Excel, PowerPoint, Word manipulation
 ## Excel - openpyxl (python package)
 ![Logo](https://i.ibb.co/0VDZMzJ/Microsoft-Excel-example1-xlsx.jpg)
 ## PowerPoint - pptx (python package)
